@@ -5,3 +5,4 @@ Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 https://projetosnicolasgarcia.github.io/OURWAYV2/
+https://projetosnicolasgarcia.github.io/ourwayteam/
